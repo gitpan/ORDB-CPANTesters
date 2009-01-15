@@ -1,5 +1,6 @@
 NAME
-    ORDB::CPANTesters - An ORLite-based ORM Database API
+    ORDB::CPANTesters - An ORM for the published CPAN Testers SQLite
+    database
 
 SYNOPSIS
       TO BE COMPLETED

@@ -1,5 +1,5 @@
 ---
-abstract: 'An ORLite-based ORM Database API'
+abstract: 'An ORM for the published CPAN Testers SQLite database'
 author:
   - 'Adam Kennedy'
 build_requires:
@@ -19,8 +19,8 @@ no_index:
     - t
 requires:
   ORLite: 1.18
-  ORLite::Mirror: 0.08
+  ORLite::Mirror: 0.09
   perl: 5.8.5
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03
