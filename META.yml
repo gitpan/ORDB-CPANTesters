@@ -1,0 +1,26 @@
+---
+abstract: 'An ORLite-based ORM Database API'
+author:
+  - 'Adam Kennedy <adamk@cpan.org>'
+build_requires:
+  LWP::Online: 1.07
+  Test::More: 0.42
+distribution_type: module
+generated_by: 'Module::Install version 0.77'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+module_name: ORDB::CPANTesters
+name: ORDB-CPANTesters
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  ORLite: 1.18
+  ORLite::Mirror: 0.07
+  perl: 5.8.5
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
