@@ -1,10 +1,11 @@
 NAME
     ORDB::CPANTesters - An ORLite-based ORM Database API
 
-DESCRIPTION
-    THIS IS AN EXPERIMENTAL MODULE AND MAY CHANGE WITHOUT NOTICE
+SYNOPSIS
+      TO BE COMPLETED
 
-    YOU HAVE BEEN WARNED
+DESCRIPTION
+    TO BE COMPLETED
 
 METHODS
   dsn
@@ -117,6 +118,10 @@ METHODS
     for a datase. See the SQLite documentation for more details.
 
 SUPPORT
+    ORDB::CPANTesters is based on ORLite 1.18.
+
+    Documentation created by ORLite::Pod 0.06.
+
     Bugs should be reported via the CPAN bug tracker at
 
     <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=ORDB-CPANTesters>
@@ -124,7 +129,7 @@ SUPPORT
     For other issues, contact the author.
 
 AUTHOR
-    Adam Kennedy <adamk@cpan.org>
+    Adam Kennedy
 
 COPYRIGHT
     Copyright 2009 Adam Kennedy.
