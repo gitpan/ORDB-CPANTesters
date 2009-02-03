@@ -119,7 +119,7 @@ METHODS
     for a datase. See the SQLite documentation for more details.
 
 SUPPORT
-    ORDB::CPANTesters is based on ORLite 1.18.
+    ORDB::CPANTesters is based on ORLite 1.19.
 
     Documentation created by ORLite::Pod 0.06.
 
