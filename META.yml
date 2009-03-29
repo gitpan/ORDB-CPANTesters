@@ -5,8 +5,10 @@ author:
 build_requires:
   LWP::Online: 1.07
   Test::More: 0.42
+configure_requires:
+  ExtUtils::MakeMaker: 6.48
 distribution_type: module
-generated_by: 'Module::Install version 0.79'
+generated_by: 'Module::Install version 0.81'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -18,9 +20,8 @@ no_index:
     - inc
     - t
 requires:
-  ORLite: 1.19
-  ORLite::Mirror: 1.11
+  ORLite::Mirror: 1.12
   perl: 5.8.5
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.04
+version: 0.05
